@@ -2,7 +2,7 @@ name: eShopOnWeb Build and Test
 # Trigger the workflow on push to main branch or manual trigger
 on:name: eShopOnWeb Build and Test
 # Trigger the workflow on push to main branch or manual trigger
-on:
+on: 
   push:
     branches: [main]
   workflow_dispatch:
